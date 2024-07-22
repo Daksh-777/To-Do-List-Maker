@@ -1,0 +1,1 @@
+A simple and elegant to-do list application to help you keep track of your tasks. This web-based app allows you to add, mark as completed, and remove tasks with ease. The interface is styled using CSS for a modern and user-friendly experience.
